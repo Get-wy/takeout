@@ -1,0 +1,183 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561408 */
+    src: url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.eot');
+    src: url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.woff') format('woff'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.svg#iconfont') format('svg');
+}
+/* 订单 */
+.shoping_title
+{
+    width: 100%;
+    height: 1.4rem;
+    border-bottom: 0.06rem solid #eeeeee;
+    background-color: #fff;
+    line-height: 1.4rem;
+    font-size: 0.35rem;
+    padding-left: 0.5rem;
+}
+.shoping_content::-webkit-scrollbar
+{
+    display: none;
+}
+.shoping_content
+{
+    width: 100%;
+    background-color: #fff;
+    overflow-y: scroll;
+}
+.shoping_content_title
+{
+    width: 100%;
+    height: 1.35rem;
+    background-color: #fff;
+    padding: 0.42rem 0.31rem 0.36rem 0.45rem;
+}
+.menpiao_tu
+{
+    width: 0.57rem;
+    height: 0.57rem;
+    float: left;
+    display:block;
+}
+.shoping_content_title span
+{
+    font-size: 0.42rem;
+    float: left;
+    margin-left: 0.34rem;
+}
+.shoping_content_title p
+{
+    font-size: 0.34rem;
+    float:right;
+    color: red;
+}
+.shoping_content_neirong
+{
+    width: 100%;
+    height: 3.63rem;
+    border-top: 0.03rem solid #eeeeee;
+    background-color: #fff;
+}
+.shoping_content_neirong1
+{
+    width: 9.71rem;
+    height: 1.26rem;
+    /* background-color: red; */
+    margin: 0.56rem 0 0 0.77rem;
+}
+.shoping_content_neirong1 p
+{
+    font-size: 0.44rem;
+    width: 6.37rem;
+    float: left;
+    color: #000;
+}
+.shoping_content_neirong1 span
+{
+    font-size: 0.34rem;
+    float: right;
+    color: #000;
+}
+.shoping_content_neirong2 p
+{
+    color: #000;
+    margin-left: 0.77rem;
+    font-size: 0.34rem;
+}
+.shoping_content_neirong2
+{
+    width: 2.8rem;
+    height: 0.89rem;
+    font-size: 0.34rem;
+}
+.shoping_content_neirong2_color
+{
+    color: #999;
+}
+.shoping_content2
+{
+    width: 100%;
+    height: 1.35rem;
+    border-top: 0.03rem solid #eeeeee;
+    border-bottom: 0.03rem solid #eeeeee;
+    background-color: #fff;
+    float: left;
+}
+.shoping_content2_btn1
+{
+    width: 2.28rem;
+    height: 0.84rem;
+    background-color: #fff;
+    border: 0.03rem solid #ff6a44;
+    color: #ff6a44;
+    font-size: 0.38rem;
+    border-radius: 0.2rem;
+    padding: 0.1rem 0 0 0.3rem;
+    margin: 0.24rem 0 0 5.50rem;
+    float: left;
+}
+.shoping_content2_btn2 {
+    width: 2.28rem;
+    height: 0.84rem;
+    background-color: #fff;
+    border: 0.03rem solid #bbbbbb;
+    color: #888888;
+    font-size: 0.38rem;
+    border-radius: 0.2rem;
+    padding: 0.1rem 0 0 0.3rem;
+    margin: 0.24rem 0.3rem 0 0;
+    float: right;
+}
+/*尾部*/
+footer
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color:#f7f7f7;
+    position: fixed;
+    bottom: 0;
+    padding-left: 1.3rem;
+    padding-top: 0.2rem;
+}
+.footer_icon
+{
+    width: 0.75rem;
+    height: 1.20rem;
+    float: left;
+    /* background-color: green; */
+    text-align: center;
+    display: block;
+}
+
+.footer_right
+{
+    margin-right: 1.6rem;
+
+}
+.footer_icon_left
+{
+    margin-left: 0.08rem;
+}
+.footer_icon1
+{
+    font-family: 'iconfont';
+    font-size: 0.70rem;
+    color: #aaa27e;
+    float: left;
+
+}
+.footer_wenzi
+{
+    margin-left: 0.1rem;
+    font-size: 0.20rem;
+    color: #888888;
+    float: left;
+}
+.dibu
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color: #ffffff;
+}

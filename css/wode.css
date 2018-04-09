@@ -1,0 +1,326 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561408 */
+    src: url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.eot');
+    src: url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.woff') format('woff'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_561408_y5bpsuy39apuv7vi.svg#iconfont') format('svg');
+}
+/* 我的 */
+.wode_top
+{
+    width: 100%;
+    height: 4.8rem;
+    background-image: url('../img/wodebg.jpg');
+    background-size:cover;
+
+    position: fixed;
+}
+.wode_top_tu
+{
+    width: 100%;
+    height: 4.8rem;
+    background: rgba(1, 161, 255, 0.88);
+    overflow: hidden;
+}
+.wode_content
+{
+    position: fixed;
+    top: 4.8rem;
+    left: 0;
+    right: 0;
+    bottom: 1.44rem;
+    width: 100%;
+    /* background-color: blue; */
+    overflow-y: scroll;
+}
+.wode_content::-webkit-scrollbar
+{
+    display: none;
+}
+.wode_top_btn
+{
+    width: 9.99rem;
+    height: 0.85rem;
+    /* background-color: #000; */
+    margin: 0.3rem auto 0;
+    font-family: 'iconfont';
+    font-size: 0.68rem;
+    color: #fff;
+}
+.wode_top_btn_right
+{
+    float: right;
+    font-family: 'iconfont';
+    font-size: 0.68rem;
+    color: #fff;
+}
+.wode_top_btn_left
+{
+    margin-left: 0.70rem;
+}
+.wode_top_tu_touxiang
+{
+    width: 1.77rem;
+    height: 1.77rem;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    border: 0.04rem solid #01a1ff;
+    margin-left: 4.35rem;
+    overflow: hidden;
+}
+.wode_top_tu_touxiang span
+{
+    font-size: 1.54rem;
+    color: #fff;
+    font-family: 'iconfont';
+    margin-left: 0.07rem;
+}
+.wode_top_btn_login
+{
+    font-size: 0.38rem;
+    color: #fff;
+    margin-left: 4.48rem;
+    margin-top: 0.1rem;
+    float: left;
+}
+.wode_top_btn_xie
+{
+    font-size: 0.38rem;
+    color: #fff;
+    float: left;
+    margin-top: 0.1rem;
+}
+.wode_content_qianbao
+{
+    width: 100%;
+    height: 1.35rem;
+    background-color: #fff;
+    border-bottom: 0.03rem solid #eeeeee;
+    /* line-height: 1.35rem; */
+    padding: 0.27rem 0.51rem 0 0.39rem;
+    overflow: hidden;
+}
+.wode_content_qianbao_icon
+{
+    width: 0.81rem;
+    height: 0.81rem;
+    background-color: #ff7143;
+    border-radius: 30%;
+    font-size: 0.4rem;
+    color: #fff;
+    font-family: 'iconfont';
+    line-height: 0.81rem;
+    text-align: center;
+    float: left;
+}
+.wode_content_qianbao_wenzi
+{
+    font-size: 0.45rem;
+    float: left;
+    margin-left: 0.38rem;
+    margin-top: 0.17rem;
+
+}
+.wode_content_qianbao_wenzi2
+{
+    font-family: 'iconfont';
+    font-size: 0.32rem;
+    color: #bfbfbf;
+    float: right;
+    margin-top: 0.24rem;
+}
+.wode_content_qianbao_mingxi
+{
+    width: 100%;
+    height: 2.43rem;
+    border-top: 0.03rem solid #eeeeee;
+    background-color: #fff;
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between; */
+}
+.wode_content_qianbao_mingxi1
+{
+    width: 1.41rem;
+    height: 1.12rem;
+    /* background-color: red; */
+    float: left;
+    margin-top: 0.68rem;
+    margin-right: 1.04rem;
+    text-align: center;
+}
+.wode_content_qianbao_mingxi_left
+{
+    margin-left: 0.91rem;
+}
+.wode_content_qianbao_mingxi1_wenzi
+{
+    font-size: 0.34rem;
+}
+.wode_content_qianbao_mingxi1_wenzi2
+{
+    font-size: 0.33rem;
+    color: #888888;
+}
+.wode_content_hua
+{
+    width: 100%;
+    height: 2.37rem;
+    border-top: 0.37rem solid #ebecee;
+    background-color: #fff;
+
+}
+.wode_content_hua1
+{
+    width: 5.43rem;
+    height: 2.10rem;
+    border-right: 0.03rem solid #eeeeee;
+    padding: 0.46rem 0 0 0.38rem;
+    position: relative;
+    float: left;
+}
+.wode_content_hua2
+{
+    width: 5.37rem;
+    height: 2.10rem;
+    padding: 0.46rem 0 0 0.38rem;
+    position: relative;
+    float: left;
+}
+.wode_content_hua1_wenzi
+{
+    font-size: 0.45rem;
+    width: 1.4rem;
+
+}
+.wode_content_hua1_wenzi2
+{
+    font-size: 0.45rem;
+    color: #898989;
+
+}
+.wode_content_hua1_kuai
+{
+    width: 1.38rem;
+    /* height: 0.56rem; */
+    background-color: #fff;
+    border: 0.02rem solid #55a6f7;
+    position: absolute;
+    top: 0.55rem;
+    right: 0.94rem;
+    border-radius: 0.2rem;
+    color: #55a6f7;
+    font-size: 0.25rem;
+    text-align: center;
+}
+.wode_content_item
+{
+    width: 100%;
+    border-top: 0.37rem solid #ebecee;
+    background-color: #fff;
+}
+.wode_content_items
+{
+    width: 100%;
+    height: 1.35rem;
+    background-color: #fff;
+    padding: 0.27rem 0.51rem 0.24rem 0.39rem;
+}
+.wode_content_items_icon
+{
+    width: 0.81rem;
+    height: 0.81rem;
+    background-color: #4fc2f8;
+    color: #fff;
+    font-size: 0.4rem;
+    border-radius: 30%;
+    font-family: 'iconfont';
+    text-align: center;
+    line-height: 0.81rem;
+    float: left;
+}
+.wode_content_items_wenzi
+{
+    font-size: 0.45rem;
+    float: left;
+    margin-top: 0.17rem;
+    margin-left: 0.3rem;
+    color: #999999;
+}
+.wode_content_items_wenzi2
+{
+    font-family: 'iconfont';
+    font-size: 0.27rem;
+    margin-top: 0.28rem;
+    color: #c8c7cc;
+    float:right;
+}
+.wode_content_item2
+{
+    background-color: #ffa21f;
+}
+.wode_content_item3
+{
+    background-color: #90a4ad;
+}
+.wode_content_items_wenzi_people
+{
+    font-size: 0.34rem;
+    color: #bfbfbf;
+    float: right;
+    margin-top: 0.2rem;
+    margin-right: 0.1rem;
+}
+/*尾部*/
+footer
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color:#f7f7f7;
+    position: fixed;
+    bottom: 0;
+    padding-left: 1.3rem;
+    padding-top: 0.2rem;
+}
+.footer_icon
+{
+    width: 0.75rem;
+    height: 1.20rem;
+    float: left;
+    /* background-color: green; */
+    text-align: center;
+    display: block;
+}
+
+.footer_right
+{
+    margin-right: 1.6rem;
+
+}
+.footer_icon_left
+{
+    margin-left: 0.08rem;
+}
+.footer_icon1
+{
+    font-family: 'iconfont';
+    font-size: 0.70rem;
+    color: #aaa27e;
+    float: left;
+
+}
+.footer_wenzi
+{
+    margin-left: 0.1rem;
+    font-size: 0.20rem;
+    color: #888888;
+    float: left;
+}
+.dibu
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color: #ffffff;
+}

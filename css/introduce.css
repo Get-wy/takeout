@@ -1,0 +1,293 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561408 */
+    src: url('//at.alicdn.com/t/font_561408_ec34mlig188jv2t9.eot');
+    src: url('//at.alicdn.com/t/font_561408_ec34mlig188jv2t9.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_561408_ec34mlig188jv2t9.woff') format('woff'),
+    url('//at.alicdn.com/t/font_561408_ec34mlig188jv2t9.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_561408_ec34mlig188jv2t9.svg#iconfont') format('svg');
+}
+body
+{
+    background-color: #f5f5f5;
+}
+header
+{
+    width: 100%;
+    height: auto;
+}
+main
+{
+    width: 100%;
+    height: 6.85rem;
+    background-color: #ffffff;
+}
+.content_title
+{
+    width: 100%;
+    height: 6.85rem;
+    border-bottom: 0.01rem solid #dfdfdf;
+    overflow: hidden;
+}
+.content_title1
+{
+    font-size: 0.47rem;
+    color: #000000;
+    margin: 0.49rem 0 0 0.5rem;
+}
+.content_title2
+{
+    font-size: 0.27rem;
+    margin-top: 0.28rem;
+    margin-left: 0.5rem;
+    color:#a0a0a0;
+}
+.countent_title3
+{
+    width: 9.78rem;
+    height: 0.66rem;
+    margin-top: 0.24rem;
+    margin-left: 0.5rem;
+    line-height: 0.66rem;
+}
+.countent_title3_price
+{
+    font-size: 0.4rem;
+    float: left;
+    color: #ff5640;
+}
+.countent_title3_delete_add
+{
+    width: 2.19rem;
+    height: 0.66rem;
+    float: right;
+}
+.delete
+{
+    width: 0.66rem;
+    height: 0.66rem;
+    float: left;
+}
+.countent_title3_price_number
+{
+    font-size: 0.35rem;
+    float: left;
+    margin-left: 0.32rem;
+    color:#626262;
+    margin-right: 0.32rem;
+}
+.add
+{
+    width: 0.66rem;
+    height: 0.66rem;
+    float: left;
+}
+.countent_title4
+{
+    width: 9.88rem;
+    height: 0.6rem;
+    margin-top: 0.7rem;
+    margin-left: 0.5rem;
+    font-size: 0.4rem;
+    line-height: 0.6rem;
+}
+.countent_title4_desc1
+{
+    color: #000000;
+    float: left;
+}
+.countent_title4_desc2
+{
+    font-size: 0.29rem;
+    float: right;
+    color:#979797;
+    font-family: 'iconfont';
+}
+.countent_title5
+{
+    width: 10.35rem;
+    height: 0.48rem;
+    border-bottom: 0.01rem solid #eeeeee;
+    margin-left: 0.5rem;
+}
+.countent_title6
+{
+    width: 9.88rem;
+    height: 1.81rem;
+    margin-left: 0.5rem;
+    margin-top: 0.44rem;
+}
+.countent_title6_introduce1
+{
+    width: 9.88rem;
+    height: 0.95rem;
+}
+.introduce1_img
+{
+    width: 0.96rem;
+    height: 0.95rem;
+    float: left;
+    margin-right: 0.26rem;
+}
+.introduce1_title
+{
+    width: 2rem;
+    height: 0.95rem;
+    float: left;
+}
+.introduce1_title1
+{
+    font-size: 0.3rem;
+    color: #000;
+}
+.introduce1_title2
+{
+    font-size: 0.28rem;
+    color:#626262;
+    float: left;
+}
+.introduce1_title2_img
+{
+    width: 0.35rem;
+    height: 0.34rem;
+    float: left;
+    margin-top: 0.1rem;
+}
+.introduce1_title3
+{
+    font-size: 0.28rem;
+    color:#f2ab1f;
+    float: left;
+}
+.introduce1_time
+{
+    font-size: 0.26rem;
+    float: right;
+    color:#b6b6b6;
+}
+.countent_title6_introduce2
+{
+    font-size: 0.36rem;
+    color: #000000;
+    margin-top: 0.36rem;
+    margin-left:1.22rem;
+}
+.content_people
+{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.content_people_title
+{
+    width: 10.35rem;
+    height: 0.7rem;
+    margin-top: 0.46rem;
+    margin-left: 0.5rem;
+    font-size: 0.42rem;
+    color: #000000;
+    line-height: 0.7rem;
+}
+footer
+{
+    width: 100%;
+    height: auto;
+    margin-top: 0.3rem;
+    background-color: #f1edea;
+    overflow: hidden;
+}
+.foods_desc
+{
+    width: 5.36rem;
+    height: 8.18rem;
+    float: left;
+    background-color: #ffffff;
+}
+.foods_desc_img
+{
+    width: 5.36rem;
+    height: 5.36rem;
+}
+.foods_desc_title
+{
+    width: 5.36rem;
+    height: 2.80rem;
+    padding: 0.4rem 0 0 0.34rem;
+}
+.foods_desc_title1
+{
+    font-size: 0.37rem;
+    color: #000000;
+}
+.foods_desc_title2
+{
+    font-size: 0.26rem;
+    color:#b6b6b6;
+    margin-top: 0.28rem;
+}
+.foods_desc_title3
+{
+    width: 4.9rem;
+    height: 0.7rem;
+    margin-top: 0.35rem;
+    line-height: 0.7rem;
+}
+.foods_desc_title3_price
+{
+    font-size: 0.36rem;
+    color:#f84d45;
+    float: left;
+}
+.foods_desc_title3_img
+{
+    float: right;
+    display: block;
+    width: 0.7rem;
+    height: 0.68rem;
+}
+.foods_desc_left
+{
+    margin-left: 0.08rem;
+}
+.foods_desc_top
+{
+    margin-top: 0.06rem;
+}
+.pay
+{
+    width: 100%;
+    height: 1.5rem;
+    background-color: #3c3c3e;
+    position: fixed;
+    left:0;
+    bottom: 0;
+}
+.foods_none
+{
+    width: 100%;
+    height: 3rem;
+    text-align: center;
+    font-size:0.34rem;
+    color:#979797;
+    padding-top: 0.5rem;
+    float: left;
+}
+.pay_price
+{
+    float: left;
+    font-size: 0.45rem;
+    color:#ffffff;
+    margin-top: 0.46rem;
+    margin-left: 2.39rem;
+}
+.pay_button
+{
+    width: 3.15rem;
+    height: 1.5rem;
+    float: right;
+    text-align: center;
+    line-height: 1.5rem;
+    color: #ffffff;
+    font-size: 0.45rem;
+    background-color: #59d178;
+}
